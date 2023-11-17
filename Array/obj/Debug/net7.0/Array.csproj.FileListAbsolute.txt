@@ -1,0 +1,14 @@
+C:\Programming\Training\Array\bin\Debug\net7.0\Array.exe
+C:\Programming\Training\Array\bin\Debug\net7.0\Array.deps.json
+C:\Programming\Training\Array\bin\Debug\net7.0\Array.runtimeconfig.json
+C:\Programming\Training\Array\bin\Debug\net7.0\Array.dll
+C:\Programming\Training\Array\bin\Debug\net7.0\Array.pdb
+C:\Programming\Training\Array\obj\Debug\net7.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Training\Array\obj\Debug\net7.0\Array.AssemblyInfoInputs.cache
+C:\Programming\Training\Array\obj\Debug\net7.0\Array.AssemblyInfo.cs
+C:\Programming\Training\Array\obj\Debug\net7.0\Array.csproj.CoreCompileInputs.cache
+C:\Programming\Training\Array\obj\Debug\net7.0\Array.dll
+C:\Programming\Training\Array\obj\Debug\net7.0\refint\Array.dll
+C:\Programming\Training\Array\obj\Debug\net7.0\Array.pdb
+C:\Programming\Training\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
+C:\Programming\Training\Array\obj\Debug\net7.0\ref\Array.dll
